@@ -6,4 +6,4 @@ collect pellets, and avoid ghosts. The game features basic collision detection, 
 It is a great demonstration of working with canvas rendering in web development, as well as implementing simple game logic using JavaScript.
 
 # Screenshot
-![screenshot](pacman screenshot.png)
+![screenshot](pacmanscreenshot.png)
