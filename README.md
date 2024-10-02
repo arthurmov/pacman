@@ -1,4 +1,4 @@
-# Pac-Man Clone in JavaScript
+# PacMan Clone in JavaScript
 
 This project is a simple Pac-Man clone built using JavaScript, HTML5, and CSS. 
 It replicates the core mechanics of the classic arcade game, where the player controls Pac-Man to move through a maze, 
